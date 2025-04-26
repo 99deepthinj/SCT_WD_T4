@@ -1,5 +1,5 @@
 # SCT_WD_T4
-TASK MANAGER
+**TASK MANAGER**
 
 A modern, feature-rich To-Do app to organize tasks with style! 🌟  
 Includes Dark/Light mode, reminders, drag & drop reordering, calendar view, localStorage sync, and more.  
